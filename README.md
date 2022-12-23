@@ -2,13 +2,14 @@
 
 ## Second task
 
-
+https://test-its-real.vercel.app/
 
 ## First task solution
 
 This code check right brackets and return amount of them
 
-```function countBrackets(string) {
+```
+   function countBrackets(string) {
 
    const arr = Array.from(string)
    const stack = []
